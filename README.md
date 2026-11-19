@@ -1,5 +1,7 @@
 # DataCentersVACapstone
-The goal of this project is to compare data centers and water in Virginia. Specifically, how data centers that will require groundwater permits compare to drinking water permits, drought status, and groundwater management areas. My research question is: What impact will data centers have on available drinking water and who will be impacted? 
+The goal of this project is to compare data centers and water in Virginia. Specifically, how data centers that will require groundwater permits compare to drinking water permits, drought status, and groundwater management areas. 
+
+My research question is: What impact will data centers have on available drinking water and who will be impacted? 
 
 The Piedmonet Environmental Council's publicly available proposed and active data center list will be used to catalogue data centers throughout the state. 
 US Census data will be used to determine socioeconomic factors by county. 
