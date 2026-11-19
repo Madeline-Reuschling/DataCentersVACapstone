@@ -3,7 +3,9 @@ The goal of this project is to compare data centers and water in Virginia. My re
 
 The Piedmonet Environmental Council's publicly available proposed and active data center list will be used to catalogue data centers throughout the state. 
 US Census data will be used to determine socioeconomic factors by county. 
-The 2025 Annual Water Resources Report by Virginia's Department of Environmental Quality will be used for pumpage and water resource data. 
+The 2025 Annual Water Resources Report by Virginia's Department of Environmental Quality will be used for pumpage and water resource data.
+DEQ and ODW maps of drought status and ground water management areas will be used for comparison to data center locations. 
+If available, a comparison of permitted capacity and permit status for data centers and permits for drinking water across the sate will be compared. 
 
 
 Data organization will be: 
